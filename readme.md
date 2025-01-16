@@ -16,4 +16,4 @@ Les ennemis pirates quant à eux vous tireront dessus à vue. Parez leurs projec
 Voici les Highs Scores de La Squadra, essayez de les battre : 
 - Khalil : 3614
 - Helia : 3338
-- Ruddy : 
+- Ruddy : 2000 environ
