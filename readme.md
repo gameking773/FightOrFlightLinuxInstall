@@ -16,6 +16,6 @@ Les ennemis pirates quant à eux vous tireront dessus à vue. Parez leurs projec
 Voici les Highs Scores de La Squadra, essayez de les battre : 
 - Khalil : 3614
 - Helia : 3338
-- Ruddy : 2000 environ
+- Ruddy : 4575
 
 Jeu réalisé par La Squadra composée de Gobillard Ruddy, El Kadiri Khalil et Sepulveda Helia dans le cadre de la GameJam du département informatique de l'Iut de Reims
