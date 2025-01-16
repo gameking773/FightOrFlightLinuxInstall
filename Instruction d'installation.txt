@@ -1,0 +1,5 @@
+prendre le fichier zip
+decompresser le fichier zip
+lancer le fichier qui a un rouage (jsp c quelle extension)
+jouer 👍
+(by Ruddy)
